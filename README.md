@@ -7,8 +7,8 @@
 - DOM
 
 ### See Page on huroku:
-<a href="https://animal-trading-card.herokuapp.com/index.html">Animal trading card</a>
+<a href="https://drum-kit-project.herokuapp.com/">Drum Kit</a>
 
 ### Final Result:
-<img src="./design-prototype.png" width="300">
+<img src="./drum-kit.png" width="300">
 
